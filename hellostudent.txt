@@ -1,0 +1,5 @@
+hello student 
+
+this is our first class in git
+
+and i hope you peapole are loving it !!!!!
